@@ -1,4 +1,4 @@
-# Timetable
+# Timetable generator
 
 Tento Python program generuje a hodnotí rozvrhy. Využívá multiprocessing a shuffle pro současný běh generování rozvrhů na více jádrech a proces Watchdog pro ukončení generování, pokud přesáhne stanovený časový limit.
 
